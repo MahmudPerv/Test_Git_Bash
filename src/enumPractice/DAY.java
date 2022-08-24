@@ -1,0 +1,5 @@
+package enumPractice;
+
+public enum DAY {
+	SUNDAY, MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY
+}
